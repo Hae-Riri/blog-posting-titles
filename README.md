@@ -8,6 +8,8 @@
 - [ ] JPA 연장
   - 댓글로 말씀하신 상황 원인 공부하기 : https://eocoding.tistory.com/74?category=941319
 
+- [ ] 왜 생성자 주입을 권장하나
+
 - [ ] Reactor 연장
   - Netty 이벤트 루프에 대해
   - webclient 비동기답게 활용하기
