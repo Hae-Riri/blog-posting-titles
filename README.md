@@ -2,7 +2,7 @@
 정리할 예정인 주제들.. 아주 늦더라도 언젠가  하려고 일단 여기 적어둠.
 
 
-[ ] subList의 위험성
+[x] subList의 위험성
   - 내가 해둔 관련 필기 : https://selective-bathtub-e65.notion.site/11-0b30059fd00a4ea88215d736417c0710
 
 [ ] JPA 연장
