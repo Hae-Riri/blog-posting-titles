@@ -19,6 +19,7 @@
 
 - [ ] 왜 ServiceImpl을 요새는 안 쓸까? 쓰는 코드는 또 왜 쓰고 있나? / AOP + JDK Dynamic Proxy와 CGLIB 참고 https://steady-coding.tistory.com/608
 
+- GraphQL : https://tech.kakao.com/2019/08/01/graphql-basic/
 - [ ] graphql은 어떻게 overFetching과 underFetching을 해결했을까? 서버가 만지는 데이터는 그대로인데 클라이언트가 서버랑 주고받는 데이터를 원하는 것만 만지게 할 수 있다는 건지? 만약 그런거라면 그게 왜 이점이고 어떤 이점을 갖는 건지?
 - [ ] queryResolver안에 아무 메소드도 없던데 이거 왜 구현하는지 알아봐야 함...
 
