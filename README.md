@@ -17,7 +17,9 @@
     - flatMap, Map 차이, flatMap 위치 차이 https://wiki.11stcorp.com/pages/viewpage.action?pageId=451610916 / concatMap 등등...
     - concurrentMap, HashMap 비동기 여부 / collectMap
 
-- [ ] 왜 ServiceImpl을 요새는 안 쓸까? 쓰는 코드는 또 왜 쓰고 있나? / AOP + JDK Dynamic Proxy와 CGLIB 참고 https://steady-coding.tistory.com/608
+- [ ] 왜 ServiceImpl을 요새는 안 쓸까? 쓰는 코드는 또 왜 쓰고 있나? / 
+- AOP + JDK Dynamic Proxy와 CGLIB 참고 https://steady-coding.tistory.com/608
+- https://www.popit.kr/spring-oop-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%98%88%EC%A0%9C1-service-serviceimpl-%EA%B5%AC%EC%A1%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/
 
 - GraphQL : https://tech.kakao.com/2019/08/01/graphql-basic/
 - [ ] graphql은 어떻게 overFetching과 underFetching을 해결했을까? 서버가 만지는 데이터는 그대로인데 클라이언트가 서버랑 주고받는 데이터를 원하는 것만 만지게 할 수 있다는 건지? 만약 그런거라면 그게 왜 이점이고 어떤 이점을 갖는 건지?
