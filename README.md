@@ -2,11 +2,13 @@
 정리할 예정인 주제들.. 아주 늦더라도 언젠가  하려고 일단 여기 적어둠.
 <br> <br>
 
+
+- 왜 코드 마지막 줄에 한칸이 더 
 - Did not observe any item or terminal signal within 10000ms in 'flatMap' (and no fallback has been configured) flatMap 다시 알아봐...
 
 - webMVC랑 import 활용해서 내가 원하는 빈만 주입하여 테스트하기. controller 말고, scheduler일 때 테스트하고 싶은 경우!
 
-
+<br>
 - [ ] subList의 위험성
   - 내가 해둔 관련 필기 : https://selective-bathtub-e65.notion.site/11-0b30059fd00a4ea88215d736417c0710
 
