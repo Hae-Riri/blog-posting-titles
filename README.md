@@ -3,6 +3,16 @@
 <br> <br>
 
 
+
+- nginx 원리, 팀 프론트플젝 nginx 사용 이해하기
+
+- netty, kqueue 등 webclient의 동작 이해 잘하기. reactor 와 flatMap, map,
+- concurrentHashMap, hashMap 등둥...
+
+- 나아아아중에 spring batch  듣다 만거 다시 듣기
+- rxjava도 듣다 만 거 많잖아... 듣기....
+
+
 - 왜 코드 마지막 줄에 한칸이 더 
 - Did not observe any item or terminal signal within 10000ms in 'flatMap' (and no fallback has been configured) flatMap 다시 알아봐...
 
