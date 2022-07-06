@@ -2,7 +2,8 @@
 정리할 예정인 주제들.. 아주 늦더라도 언젠가  하려고 일단 여기 적어둠.
 <br> <br>
 
-
+log.info("value= {}", value);
+log.info("value=" + value);
 
 - nginx 원리, 팀 프론트플젝 nginx 사용 이해하기
 
