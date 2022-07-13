@@ -1,5 +1,11 @@
 # blog-posting-titles
 정리할 예정인 주제들.. 아주 늦더라도 언젠가  하려고 일단 여기 적어둠.
+
+
+날짜 관해서 모던자바랑 같이 연계해서 쓰거나,
+배치 관련해서 여쭙거나,
+nginx conf 파일 제대로 파헤치기!
+
 <br> <br>
 
 <img width="741" alt="image" src="https://user-images.githubusercontent.com/35680213/177558753-70fdeed9-8879-4bed-9b31-6b5e80ffabdb.png">
